@@ -1,0 +1,10 @@
+﻿  Snake.cpp
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(55,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(87,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(87,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(93,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(93,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(96,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++ projects\sfml_games\Snake\Snake\Snake.cpp(96,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> E:\C++ projects\sfml_games\Snake\Debug\Snake.exe
